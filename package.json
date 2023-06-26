@@ -1,6 +1,6 @@
 {
   "name": "@olistic/jsontokens",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "node.js library for encoding, decoding, and verifying JSON Web Tokens (JWTs)",
   "main": "lib/index.js",
   "unpkg": "dist/jsontokens.js",

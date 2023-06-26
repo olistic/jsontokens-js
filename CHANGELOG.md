@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to the project will be documented in this file.
 
+## [4.0.2](https://github.com/olistic/jsontokens-js/compare/v4.0.1...v4.0.2) (2023-06-26)
+
+
+### Bug Fixes
+
+* accommodate for optional properties in index signature ([#1](https://github.com/olistic/jsontokens-js/issues/1)) ([4e15325](https://github.com/olistic/jsontokens-js/commit/4e15325908e1cfefb924d894465d033e0b977143))
+
 ## [4.0.1](https://github.com/stacks-network/jsontokens-js/compare/v4.0.0...v4.0.1) (2022-08-27)
 
 
