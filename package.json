@@ -90,6 +90,9 @@
       "@commitlint/config-conventional"
     ]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "release": {
     "branches": "master",
     "plugins": [
